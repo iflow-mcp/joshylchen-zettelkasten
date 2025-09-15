@@ -1,0 +1,35 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+*.egg-info/
+.build/
+.dist/
+dist/
+build/
+*.db
+# Envs
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# SQLite
+*.db-shm
+*.db-wal
+
+# Data directory
+data/
