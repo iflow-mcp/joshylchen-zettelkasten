@@ -1,0 +1,1 @@
+{"serverConfig": "{\"mcpServers\":{\"zettelkasten\":{\"command\":\"uvx\",\"args\":[\"--from\",\"iflow-mcp_joshylchen-zettelkasten\",\"zettelkasten-mcp\",\"--transport\",\"stdio\"],\"values\":{}}}}"}
